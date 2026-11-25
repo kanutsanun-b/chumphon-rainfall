@@ -1,8 +1,8 @@
 {
   "app": {
-    "latest": "1.3.1",
-    "url": "https://github.com/kanutsanun-b/chumphon-rainfall/releases/download/v1.3.1/RainfallChumphon_Setup_1.3.1.exe",
-    "sha256": "eef459820cc17b9be1f5a4231c4649dadb254f970a484eece63c84db507436d9",
-    "notes": "เวอร์ชัน 1.3.1: ปรับสเกลสีปริมาณฝน และแสดงค่าฝนน้อยกว่า 1 มม. เป็นสีขาว"
+    "latest": "1.3.2",
+    "url": "https://github.com/kanutsanun-b/chumphon-rainfall/releases/download/v1.3.2/RainfallChumphon_Setup_1.3.2.exe",
+    "sha256": "365a7abfe299dc5713162e55796aab77bd2bbaf08e8b15e156193cae9121cf47",
+    "notes": "เวอร์ชัน 1.3.2: แก้การอัปเดตให้รอปิดโปรแกรมก่อนเริ่มติดตั้ง"
   }
 }
